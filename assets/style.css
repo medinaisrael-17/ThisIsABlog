@@ -173,6 +173,13 @@ strong:hover {
 
 
 @media only screen and (max-width: 991px) {
+    #genericForm {
+        margin-top: 50px;
+        padding-left: 0px;
+    }
 
+    #myInput {
+        width: 45%;
+    }
 
 }
